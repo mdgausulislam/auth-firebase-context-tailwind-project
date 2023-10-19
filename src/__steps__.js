@@ -13,3 +13,9 @@ context Api
  * 2. Inside provider access children props and then use
  * 
 */
+
+/***
+ * 1.break down the create user function
+ * 2. auth provider will have auth pass and email password from register
+ * 
+ * & */
